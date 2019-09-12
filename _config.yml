@@ -2,7 +2,7 @@
 title: My Blog
 SEOTitle: 秋水的博客 | QS Blog
 header-img: img/post-bg-rwd.jpg
-email: xtpbgy@protonmail.com
+email: 邮箱：xtpbgy@protonmail.com
 description: "Every failure is leading towards success."
 keyword: "搬瓦工, Cloudcone, 秋水的博客, vultr, 搬瓦工, SS, SSR, VPN"
 url: "https://blog2020.github.io/"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "有疑问请邮件联系站长！！"
+sidebar-about-description: "有疑问请发邮件联系站长！！"
 sidebar-avatar: /img/dog2019.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
