@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 秋水的博客 | BY Blog
+title: My Blog
+SEOTitle: 秋水的博客 | QS Blog
 header-img: img/post-bg-rwd.jpg
 email: 请联系站长
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 秋水的博客, qiubaiying, 搬瓦工, iOS, Apple, iPhone"
+keyword: "搬瓦工, Cloudcone, 秋水的博客, vultr, 搬瓦工, SS, SSR, VPN"
 url: "https://blog2020.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/github.io.git" # you code repository
